@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{867DFFCC-016E-48D7-834C-600C8D3D20B8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VCS.FieldManager.UI/VCS.FieldManager.UI.iOS/Info.plist">
+    <Files>
+      <File FileName="VCS.FieldManager.UI/VCS.FieldManager.UI.iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VCS.FieldManager.UI.Droid PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.VCS.FieldManager.UI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.1bf1792122a276a523069191b4cc4bcd89f68b2e" automaticSigning="False" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
